@@ -1,15 +1,16 @@
 # Typing
-pyright
+pyright==1.1.376
 
 # Formatting
-black
-isort
+black==24.8.0
+isort==5.13.2
 
 # Linting
-flake8
+flake8==7.1.1
 
 # Testing
-pytest
+pytest==8.3.2
 
 # Pre-commit
-pre-commit
+pre-commit==3.8.0
+pydantic==2.8.2
